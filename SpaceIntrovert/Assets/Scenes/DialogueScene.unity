@@ -802,9 +802,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _serializedExposedParameters: []
   _boundGraphSerialization: '{"type":"NodeCanvas.DialogueTrees.DialogueTree","nodes":[{"statement":{"_text":"\u0422\u0435\u043c\u043d\u043e\u0432\u0430\u0442\u043e..."},"_actorName":"Player","_actorParameterID":"752a4d50-2af0-428d-abcb-99acc2144e55","_position":{"x":330.0,"y":158.0},"$type":"NodeCanvas.DialogueTrees.StatementNode","$id":"0"},{"statement":{"_text":"\u0421\u043b\u0438\u0448\u043a\u043e\u043c
-    \u0442\u0435\u043c\u043d\u043e..."},"_actorName":"Player","_actorParameterID":"752a4d50-2af0-428d-abcb-99acc2144e55","_position":{"x":317.0,"y":285.0},"$type":"NodeCanvas.DialogueTrees.StatementNode","$id":"1"},{"availableChoices":[{"statement":{"_text":"I
-    am a choice..."}},{"statement":{"_text":"I am a choice..."}},{"statement":{"_text":"I
-    am a choice..."}}],"_actorName":"Player","_actorParameterID":"752a4d50-2af0-428d-abcb-99acc2144e55","_position":{"x":311.9299,"y":388.9565},"$type":"NodeCanvas.DialogueTrees.MultipleChoiceNode","$id":"2"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.DialogueTrees.DTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.DialogueTrees.DTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{}},"derivedData":{"actorParameters":[{"_keyName":"Player","_id":"752a4d50-2af0-428d-abcb-99acc2144e55","_actorObject":1}],"$type":"NodeCanvas.DialogueTrees.DialogueTree+DerivedSerializationData"}}'
+    \u0442\u0435\u043c\u043d\u043e..."},"_actorName":"Player","_actorParameterID":"752a4d50-2af0-428d-abcb-99acc2144e55","_position":{"x":323.1946,"y":252.9943},"$type":"NodeCanvas.DialogueTrees.StatementNode","$id":"1"},{"availableChoices":[{"statement":{"_text":"\u0414\u0430"}},{"statement":{"_text":"\u041d\u0435\u0442"}}],"_actorName":"Player","_actorParameterID":"752a4d50-2af0-428d-abcb-99acc2144e55","_position":{"x":347.0329,"y":359.0156},"$type":"NodeCanvas.DialogueTrees.MultipleChoiceNode","$id":"2"},{"statement":{"_text":"!"},"_actorName":"Player","_actorParameterID":"752a4d50-2af0-428d-abcb-99acc2144e55","_position":{"x":168.4109,"y":517.5427},"$type":"NodeCanvas.DialogueTrees.StatementNode","$id":"3"},{"statement":{"_text":"This
+    is a dialogue text"},"_position":{"x":453.4745,"y":516.1607},"$type":"NodeCanvas.DialogueTrees.StatementNode","$id":"4"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.DialogueTrees.DTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.DialogueTrees.DTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.DialogueTrees.DTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"4"},"$type":"NodeCanvas.DialogueTrees.DTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{}},"derivedData":{"actorParameters":[{"_keyName":"Player","_id":"752a4d50-2af0-428d-abcb-99acc2144e55","_actorObject":1}],"$type":"NodeCanvas.DialogueTrees.DialogueTree+DerivedSerializationData"}}'
   _boundGraphObjectReferences:
   - {fileID: 0}
   - {fileID: 247496246}
@@ -812,8 +811,8 @@ MonoBehaviour:
     _version: 3.22
     _category: 
     _comments: 
-    _translation: {x: 25, y: 15}
-    _zoomFactor: 0.9685767
+    _translation: {x: 115, y: -78}
+    _zoomFactor: 0.7497665
   _firstActivation: 0
   _enableAction: 1
   _disableAction: 2
