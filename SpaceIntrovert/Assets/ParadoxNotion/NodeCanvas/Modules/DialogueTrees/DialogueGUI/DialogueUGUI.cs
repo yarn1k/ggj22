@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-// using UnityEngine.InputSystem;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
@@ -182,7 +182,7 @@ namespace NodeCanvas.DialogueTrees.UI.Examples
 
             if ( waitForInput ) {
                 waitInputIndicator.gameObject.SetActive(true);
-                while ( !Keyboard.current.anyKey.wasUpdatedThisFrame ) {
+                while ( !Keyboard.current.anyKey.wasPressedThisFrame ) {
                 // while ( !Input.anyKeyDown ) {
                     yield return null;
                 }
