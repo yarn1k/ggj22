@@ -1,3 +1,4 @@
+using NodeCanvas.DialogueTrees;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,6 +8,7 @@ public class ReactorDoor : MonoBehaviour
     public GameObject chip;
     public Animator door;
     private bool isPasswordRight = false;
+    public DialogueTreeController dialogue;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -19,7 +21,7 @@ public class ReactorDoor : MonoBehaviour
             } 
             else
             {
-
+                dialogue.StartDialogue();
             }
         }
     }
