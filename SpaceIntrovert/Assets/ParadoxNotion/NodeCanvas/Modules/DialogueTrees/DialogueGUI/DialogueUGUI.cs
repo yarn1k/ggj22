@@ -182,7 +182,7 @@ namespace NodeCanvas.DialogueTrees.UI.Examples
 
             if ( waitForInput ) {
                 waitInputIndicator.gameObject.SetActive(true);
-                while ( !Keyboard.current.anyKey.wasPressedThisFrame ) {
+                while ( !(Keyboard.current.anyKey.wasPressedThisFrame || Mouse.current.leftButton.isPressed ) ) {
                 // while ( !Input.anyKeyDown ) {
                     yield return null;
                 }
