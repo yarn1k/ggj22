@@ -5,11 +5,11 @@ public class DialogueT : MonoBehaviour
 {
 
     [SerializeField] private DialogueTreeController dialogue;
+    // [SerializeField] private ;
 
     void OnTriggerEnter(Collider other) {
-        Debug.Log("!");
         if (other.tag == "player") {
-            Debug.Log("=)");
+            Cursor.lockState = CursorLockMode.None;
             dialogue.StartDialogue();
         }
      }
