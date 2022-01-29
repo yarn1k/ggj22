@@ -5,9 +5,8 @@ using UnityEngine;
 
 public class ReactorDoor : MonoBehaviour
 {
-    public GameObject chip;
     public Animator door;
-    private bool isPasswordRight = false;
+    public static bool isPasswordRight = false;
     public DialogueTreeController dialogue;
 
     private void OnTriggerEnter(Collider other)
@@ -16,7 +15,6 @@ public class ReactorDoor : MonoBehaviour
         {
             if (isPasswordRight)
             {
-                chip.SetActive(false);
                 door.SetBool("character_nearby", true);
             } 
             else
@@ -29,6 +27,5 @@ public class ReactorDoor : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         door.SetBool("character_nearby", false);
-        chip.SetActive(true);
     }
 }

@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class OpenDoor : MonoBehaviour
+public class KitchenDoor : MonoBehaviour
 {
     public Animator door;
+    public static bool isAccess = false;
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "key")
+        if (isAccess)
         {
             door.SetBool("character_nearby", true);
         }
