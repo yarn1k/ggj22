@@ -14,4 +14,9 @@ public class EndGame : MonoBehaviour
             dialogue.StartDialogue();
         }
     }
+
+    public void SetEndGame()
+    {
+        ReactorRepair.isGameComplete = true;
+    }
 }

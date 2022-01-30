@@ -28,4 +28,9 @@ public class ReactorDoor : MonoBehaviour
     {
         door.SetBool("character_nearby", false);
     }
+
+    public void PasswordReset()
+    {
+        isPasswordRight = true;
+    }
 }
