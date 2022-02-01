@@ -59,23 +59,23 @@ sysinfo.txt
 crashlytics-build.properties
 
 # External Big Assets
-Assets/ExternalAssets/_Creepy_Cat
-Assets/ExternalAssets/_Creepy_Cat.meta
-Assets/ExternalAssets/BodyGuards
-Assets/ExternalAssets/BodyGuards.meta
-Assets/ExternalAssets/HQ Acoustic system
-Assets/ExternalAssets/HQ Acoustic system.meta
-Assets/ExternalAssets/kitchen props
-Assets/ExternalAssets/kitchen props.meta
-Assets/ExternalAssets/Party Pack
-Assets/ExternalAssets/Party Pack.meta
-Assets/ExternalAssets/QA_Books
-Assets/ExternalAssets/QA_Books.meta
+Assets/ExternalAssets/Level/_Creepy_Cat
+Assets/ExternalAssets/Level/_Creepy_Cat.meta
+Assets/ExternalAssets/Characters/BodyGuards
+Assets/ExternalAssets/Characters/BodyGuards.meta
+Assets/ExternalAssets/Level/HQ Acoustic system
+Assets/ExternalAssets/Level/HQ Acoustic system.meta
+Assets/ExternalAssets/Level/kitchen props
+Assets/ExternalAssets/Level/kitchen props.meta
+Assets/ExternalAssets/Food/Party Pack
+Assets/ExternalAssets/Food/Party Pack.meta
+Assets/ExternalAssets/Level/QA_Books
+Assets/ExternalAssets/Level/QA_Books.meta
 Assets/ExternalAssets/Sci_fi_Drones
 Assets/ExternalAssets/Sci_fi_Drones.meta
-Assets/ExternalAssets/SciFi Warehouse Kit
-Assets/ExternalAssets/SciFi Warehouse Kit.meta
-Assets/ExternalAssets/ScifiOfficeLite
-Assets/ExternalAssets/ScifiOfficeLite.meta
+Assets/ExternalAssets/Level/SciFi Warehouse Kit
+Assets/ExternalAssets/Level/SciFi Warehouse Kit.meta
+Assets/ExternalAssets/Level/ScifiOfficeLite
+Assets/ExternalAssets/Level/ScifiOfficeLite.meta
 Assets/ExternalAssets/SpaceSkies Free
 Assets/ExternalAssets/SpaceSkies Free.meta
