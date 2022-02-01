@@ -58,5 +58,24 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# External Assets
-Assets/ExternalAssets/*
+# External Big Assets
+Assets/ExternalAssets/_Creepy_Cat
+Assets/ExternalAssets/_Creepy_Cat.meta
+Assets/ExternalAssets/BodyGuards
+Assets/ExternalAssets/BodyGuards.meta
+Assets/ExternalAssets/HQ Acoustic system
+Assets/ExternalAssets/HQ Acoustic system.meta
+Assets/ExternalAssets/kitchen props
+Assets/ExternalAssets/kitchen props.meta
+Assets/ExternalAssets/Party Pack
+Assets/ExternalAssets/Party Pack.meta
+Assets/ExternalAssets/QA_Books
+Assets/ExternalAssets/QA_Books.meta
+Assets/ExternalAssets/Sci_fi_Drones
+Assets/ExternalAssets/Sci_fi_Drones.meta
+Assets/ExternalAssets/SciFi Warehouse Kit
+Assets/ExternalAssets/SciFi Warehouse Kit.meta
+Assets/ExternalAssets/ScifiOfficeLite
+Assets/ExternalAssets/ScifiOfficeLite.meta
+Assets/ExternalAssets/SpaceSkies Free
+Assets/ExternalAssets/SpaceSkies Free.meta
