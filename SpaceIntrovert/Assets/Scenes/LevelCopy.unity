@@ -3110,7 +3110,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}'
     _references: []
   _UID: 11bad9f4-dea1-4e44-ac8e-e0cb278545e6
-  _identifier: Npc
+  _identifier: NpcBlockSis2
   _singletonMode: 0
   _dontDestroyOnLoad: 1
 --- !u!136 &174589443
@@ -3161,7 +3161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d71fb7c52372e244baf2e69a9d0d116, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: Npc
+  _name: "\u0427\u0451\u0440\u043D\u044B\u0439 \u0414\u0436\u043E\u043D"
   _portrait: {fileID: 0}
   _dialogueColor: {r: 0.30151927, g: 0.4811321, b: 0.27006942, a: 1}
   _dialogueOffset: {x: 0, y: 0, z: 0}
@@ -7682,7 +7682,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d71fb7c52372e244baf2e69a9d0d116, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: Npc
+  _name: "\u041E\u0445\u0440\u0430\u043D\u043D\u0438\u043A"
   _portrait: {fileID: 0}
   _dialogueColor: {r: 0.30151927, g: 0.4811321, b: 0.27006942, a: 1}
   _dialogueOffset: {x: 0, y: 0, z: 0}
@@ -7741,7 +7741,7 @@ MonoBehaviour:
     _version: 3.22
     _category: 
     _comments: 
-    _translation: {x: 0, y: 0}
+    _translation: {x: -178, y: -77}
     _zoomFactor: 1
   _firstActivation: 0
   _enableAction: 0
@@ -25945,7 +25945,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}'
     _references: []
   _UID: 11bad9f4-dea1-4e44-ac8e-e0cb278545e6
-  _identifier: Npc
+  _identifier: NpcSisAdmin
   _singletonMode: 0
   _dontDestroyOnLoad: 1
 --- !u!136 &1365040943
@@ -25996,7 +25996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d71fb7c52372e244baf2e69a9d0d116, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: "\u0421\u0438\u0441\u0430\u0434\u043C\u0438\u043D"
+  _name: "\u0421\u0438\u0441\u0410\u0434\u043C\u0438\u043D"
   _portrait: {fileID: 0}
   _dialogueColor: {r: 0.8396226, g: 0.7341213, b: 0.19406372, a: 1}
   _dialogueOffset: {x: 0, y: 0, z: 0}
@@ -36592,7 +36592,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}'
     _references: []
   _UID: 11bad9f4-dea1-4e44-ac8e-e0cb278545e6
-  _identifier: Npc
+  _identifier: NpcBlockSis1
   _singletonMode: 0
   _dontDestroyOnLoad: 1
 --- !u!136 &1949379707
@@ -36643,7 +36643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d71fb7c52372e244baf2e69a9d0d116, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: Npc
+  _name: "\u0411\u0435\u043B\u044B\u0439 \u0414\u0436\u043E\u043D"
   _portrait: {fileID: 0}
   _dialogueColor: {r: 0.30151927, g: 0.4811321, b: 0.27006942, a: 1}
   _dialogueOffset: {x: 0, y: 0, z: 0}
@@ -36674,7 +36674,7 @@ MonoBehaviour:
     _version: 3.22
     _category: 
     _comments: 
-    _translation: {x: 121, y: -38}
+    _translation: {x: -15, y: -58}
     _zoomFactor: 0.9864248
   _firstActivation: 0
   _enableAction: 0
